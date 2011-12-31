@@ -9,8 +9,8 @@ namespace XCL_
     public static class values
     {
         // sets up read only values
-        public const string version = "0.0.0.1 Developer";
-        public const string numver = "0001";
+        public const string version = "0.0.0.2 Developer";
+        public const string numver = "0002";
         public const string name = "XCL+";
         public const string nameversion = name + " " + version;
         public const string company = "INTERTECK";
@@ -67,6 +67,7 @@ namespace XCL_
         {
             // the messagebox command
             if (inputlr[0] == "messagebox") { Commands.messagebox(Functions.argumentgetarar(input)); return false; }
+            if (inputlr[0] == "about") { AboutBox about = new AboutBox(); about.ShowDialog(); about = null; }
             return true;
         }
     }

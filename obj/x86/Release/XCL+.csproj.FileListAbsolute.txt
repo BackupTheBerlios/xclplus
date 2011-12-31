@@ -7,3 +7,4 @@ C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Release\XCL+.exe
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Release\XCL+.pdb
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Release\XCL_.input.resources
+C:\Users\Skye Macdonald\Documents\Visual Studio 2010\Projects\XCL+\XCL+\obj\x86\Release\XCL_.AboutBox.resources

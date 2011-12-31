@@ -15,3 +15,4 @@ C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\XCL_.input.resources
+C:\Users\Skye Macdonald\Documents\Visual Studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\XCL_.AboutBox.resources
