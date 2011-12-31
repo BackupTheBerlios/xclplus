@@ -67,7 +67,7 @@ namespace XCL_
         {
             // the messagebox command
             if (inputlr[0] == "messagebox") { Commands.messagebox(Functions.argumentgetarar(input)); return false; }
-            if (inputlr[0] == "about") { AboutBox about = new AboutBox(); about.ShowDialog(); about = null; }
+            if (inputlr[0] == "about") { AboutBox about = new AboutBox(); about.ShowDialog(); about = null; return false; }
             return true;
         }
     }
