@@ -1,3 +1,2 @@
-messagebox Hello From XCL+
-messagebox | input What Is Your Name?
+messagebox | input Type Somthing!
 about
