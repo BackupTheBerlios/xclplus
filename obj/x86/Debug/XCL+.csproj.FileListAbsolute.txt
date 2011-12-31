@@ -1,0 +1,17 @@
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\obj\x86\Debug\XCL_.Properties.Resources.resources
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\bin\Debug\XCL+.exe
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\bin\Debug\XCL+.pdb
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\obj\x86\Debug\XCL+.exe
+C:\Users\Skye Macdonald\AppData\Local\Temporary Projects\XCL+\obj\x86\Debug\XCL+.pdb
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\XCL+.exe
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\XCL+.pdb
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\bin\Debug\XCL+.exe
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\bin\Debug\XCL+.pdb
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\XCL_.Properties.Resources.resources
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Debug\XCL_.input.resources
