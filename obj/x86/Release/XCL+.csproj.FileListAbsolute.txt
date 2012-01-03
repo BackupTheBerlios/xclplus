@@ -8,3 +8,13 @@ C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Release\XCL+.pdb
 C:\Users\Skye Macdonald\documents\visual studio 2010\Projects\XCL+\XCL+\obj\x86\Release\XCL_.input.resources
 C:\Users\Skye Macdonald\Documents\Visual Studio 2010\Projects\XCL+\XCL+\obj\x86\Release\XCL_.AboutBox.resources
+N:\XCL+ GIT\bin\Release\XCL+.exe
+N:\XCL+ GIT\bin\Release\XCL+.pdb
+N:\XCL+ GIT\obj\x86\Release\ResolveAssemblyReference.cache
+N:\XCL+ GIT\obj\x86\Release\XCL_.AboutBox.resources
+N:\XCL+ GIT\obj\x86\Release\XCL_.input.resources
+N:\XCL+ GIT\obj\x86\Release\XCL_.Properties.Resources.resources
+N:\XCL+ GIT\obj\x86\Release\GenerateResource.read.1.tlog
+N:\XCL+ GIT\obj\x86\Release\GenerateResource.write.1.tlog
+N:\XCL+ GIT\obj\x86\Release\XCL+.exe
+N:\XCL+ GIT\obj\x86\Release\XCL+.pdb

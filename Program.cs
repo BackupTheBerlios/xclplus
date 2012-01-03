@@ -10,17 +10,7 @@ namespace XCL_
     public static class values
     {
         // sets up read only values
-        public const string version = "0.0.0.3 Testing";
         public const string numver = "0003";
-        public const string name = "XCL+";
-        public const string nameversion = name + " " + version;
-        public const string company = "INTERTECK";
-        public const string programmer = "Skye Macdonald";
-        public const string tester = "Charity Hall";
-        public const string progcomp = programmer + " Of " + company;
-        public const string testcomp = tester + " Of " + company;
-        // Sets up editable values
-        public static string prompt { get; set; }
     }
 
     static class Program
