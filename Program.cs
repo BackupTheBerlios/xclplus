@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace XCL_
 {
     public static class values
     {
         // sets up read only values
-        public const string version = "0.0.0.2 Developer";
-        public const string numver = "0002";
+        public const string version = "0.0.0.3 Testing";
+        public const string numver = "0003";
         public const string name = "XCL+";
         public const string nameversion = name + " " + version;
         public const string company = "INTERTECK";
@@ -68,6 +69,8 @@ namespace XCL_
             // the messagebox command
             if (inputlr[0] == "messagebox") { Commands.messagebox(Functions.argumentgetarar(input)); return false; }
             if (inputlr[0] == "about") { AboutBox about = new AboutBox(); about.ShowDialog(); about = null; return false; }
+            if (inputlr[0] == "exe") { if (File.Exists(Functions.argumentgetarstr(input))) { Process.Start(Functions.argumentgetarstr(input)); } }
+            if (inputlr[0] == "xcl+file") { if (File.Exists(Functions.argumentgetarstr(input))) { xclrun(Functions.argumentgetarstr(input)); } }
             return true;
         }
     }
